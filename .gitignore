@@ -1,6 +1,0 @@
-node_modules/
-
-.taskkey
-*.js
-!dist/**/*.js
-*.vsix
